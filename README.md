@@ -10,4 +10,4 @@ Small course in python in russian for first year students of DPPE MIPT
 ## Кто может проходить курс?
 Кто угодно. Главное сдавайте задания. Можете даже не сдавать, а просто читать лекции.
 ## Почему в лекциях какие-то странные файлы формата .ipynb????? Я ничего не понимаю :(
-Это файлы формата `jupyter notebook`, или так называемые `notebooks`. Самый простой и правильный способ накатить себе jupyter-notebook заключается в установке пакета [`anaconda`](https://www.anaconda.com/download/#windows). Далее запускаем `anaconda-navigator`, жмем `Launch` под иконкой `jupyter notebook` и _voilà_, вы достигли успеха.
+Это файлы формата `jupyter notebook`, или так называемые `notebooks`. Самый простой и правильный способ накатить себе jupyter-notebook заключается в установке пакета [`anaconda`](https://www.anaconda.com/download/#windows) (обязательно скачайте именно 3.7). Далее запускаем `anaconda-navigator`, жмем `Launch` под иконкой `jupyter notebook` и _voilà_, вы достигли успеха.
